@@ -1,0 +1,273 @@
+[31mELOG[0m main.c:57 [33mentry loop[0m
+[31mELOG[0m tcp.c:13 [33mtun_tcp_accept[0m
+[31mELOG[0m tcp.c:85 [33mtun_tcp_recv[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:222 [33mepoll_to_lwip[0m
+[31mELOG[0m tcp.c:132 [33mtun_tcp_send[0m
+[31mELOG[0m tcp.c:222 [33mepoll_to_lwip[0m
+[31mELOG[0m tcp.c:85 [33mtun_tcp_recv[0m
+[31mELOG[0m tcp.c:95 [33mclient closed[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:177 [33mlwip_to_epoll[0m
+[31mELOG[0m tcp.c:214 [33mshutdown server write[0m
+[31mELOG[0m tcp.c:140 [33mhandle_epoll_tcp[0m
+[31mELOG[0m tcp.c:222 [33mepoll_to_lwip[0m
+[31mELOG[0m tcp.c:258 [33mserver closed[0m
+[31mELOG[0m tcp.c:163 [33mtun_tcp_close[0m
+[31mELOG[0m tcp.c:153 [33mtun_tcp_free[0m

@@ -30,16 +30,13 @@
 #ifndef LWIP_CUSTOM_LWIPOPTS_H
 #define LWIP_CUSTOM_LWIPOPTS_H
 
-/*
-#define DARWIN
-*/
-
 // enable tun2socks logic
 #define TUN2SOCKS 1
 
 #define NO_SYS 1
 #define LWIP_TIMERS 1
 
+#define IP_DEFAULT_TTL 64
 #define LWIP_ARP 0
 #define ARP_QUEUEING 0
 #define IP_FORWARD 0
@@ -74,17 +71,23 @@
 
 #define LWIP_CHECKSUM_ON_COPY 1
 
-#define MEMP_NUM_TCP_PCB_LISTEN 16
-#define MEMP_NUM_TCP_PCB 45
+#define MEMP_NUM_TCP_PCB_LISTEN 1
+#define MEMP_NUM_TCP_PCB 16
 #define MEMP_NUM_UDP_PCB 1
 
+/*
+#define TCP_LISTEN_BACKLOG 1
+#define TCP_DEFAULT_LISTEN_BACKLOG 0xff
+#define LWIP_TCP_TIMESTAMPS 1
+*/
+
 #define TCP_MSS 1460
-#define TCP_WND 0xffff
+#define TCP_WND 32 * 1024
 #define TCP_SND_BUF (TCP_WND)
 
 #define MEM_LIBC_MALLOC 1
 #define MEMP_MEM_MALLOC 1
-#define MEM_SIZE 512 * 1024
+#define MEM_SIZE 128 * 1024
 
 #define SYS_LIGHTWEIGHT_PROT 0
 #define LWIP_DONT_PROVIDE_BYTEORDER_FUNCTIONS
